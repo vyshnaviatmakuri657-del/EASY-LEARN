@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://easy-learn-ak7c.onrender.com';
 
 export const uploadPDF = async (file) => {
   const formData = new FormData();
